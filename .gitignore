@@ -1,0 +1,24 @@
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
